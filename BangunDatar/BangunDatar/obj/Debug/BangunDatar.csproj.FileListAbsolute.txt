@@ -1,6 +1,0 @@
-E:\Bootcamp\dotNet\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojResolveAssemblyReference.cache
-E:\Bootcamp\dotNet\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe.config
-E:\Bootcamp\dotNet\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe
-E:\Bootcamp\dotNet\BangunDatar\BangunDatar\bin\Debug\BangunDatar.pdb
-E:\Bootcamp\dotNet\BangunDatar\BangunDatar\obj\Debug\BangunDatar.exe
-E:\Bootcamp\dotNet\BangunDatar\BangunDatar\obj\Debug\BangunDatar.pdb
